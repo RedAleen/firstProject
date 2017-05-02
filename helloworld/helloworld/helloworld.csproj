@@ -65,6 +65,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ajax_info.txt" />
     <Content Include="index.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
